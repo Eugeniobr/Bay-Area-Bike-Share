@@ -1,10 +1,30 @@
-This folder contains files for P0: Analyze Bay Area Bike Share Data.
+FUNDAMENTALS OF DATA SCIENCE I
+===
 
-Bay\_Area\_Bike\_Share\_Analysis.ipynb - Main project file.
+## Final Project: Bay Area Bike Share Analysis
 
-babs\_datacheck.py; babs\_visualizations.py - Supplemental scripts for checking
-data wrangling, reporting of basic statistics, and creation of exploratory bar
-charts and histograms.
+---
+### Installing
+
+This project requires **Python 2.7** and the following Python libraries installed:
+
+- [NumPy](http://www.numpy.org/)
+- [Pandas](http://pandas.pydata.org)
+- [Jupyter Notebook](http://jupyter.org/)
+
+### Code
+
+Some code is provided by Udacity. Udacity students are asked to implement some additional functionalities.
+
+### Run
+
+In a terminal or command window, navigate to the top-level project directory `student_intervention/` (that contains this README) and run the following command:
+
+```jupyter notebook analisebayarea.ipynb```  
+
+This will open the iPython Notebook software and project file in your browser.
+
+### Data
 
 Data is split among twelve other files, organized into three sets of four files
 each. Prefixing each set is one of three datestamps, showing the end month for
