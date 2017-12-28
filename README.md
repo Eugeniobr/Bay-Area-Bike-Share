@@ -10,6 +10,7 @@ This project requires **Python 2.7** and the following Python libraries installe
 
 - [NumPy](http://www.numpy.org/)
 - [Pandas](http://pandas.pydata.org)
+- [Matplotlib](https://matplotlib.org/)
 - [Jupyter Notebook](http://jupyter.org/)
 
 ### Code
