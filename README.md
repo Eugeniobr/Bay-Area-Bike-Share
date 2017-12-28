@@ -18,7 +18,7 @@ Some code is provided by Udacity. Udacity students are asked to implement some a
 
 ### Run
 
-In a terminal or command window, navigate to the top-level project directory `student_intervention/` (that contains this README) and run the following command:
+In a terminal or command window, navigate to the top-level project directory `Bay-Area-Bike-Share/` (that contains this README) and run the following command:
 
 ```jupyter notebook analisebayarea.ipynb```  
 
